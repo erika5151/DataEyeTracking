@@ -33,7 +33,7 @@ FOUNDATION_EXPORT const unsigned char DataEyeTrackingVersionString[];
  
  [DCTrackingPoint login:@"123123123sdf"];
  
- [DCTrackingPoint createAccount];
+ [DCTrackingPoint createAccount:@"12312sdfjo23908"];
  
  [DCTrackingPoint paymentSuccess:@"1askdjf" orderId:@"1293123120931" currencyAmount:10 currencyType:@"CNY" paymentType:@"sd"];
  
